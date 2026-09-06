@@ -16,7 +16,7 @@ The notebook covers two stages:
 
 ## Hugging Face Space
 
-**Live Demo:** [Hugging Face Space](YOUR_HF_SPACE_URL)
+**Live Demo:** [Hugging Face Space](https://huggingface.co/spaces/kb0968237/foodvision_Food101)
 
 > Replace `<YOUR_HF_SPACE_URL>` with the URL of your deployed Hugging
 > Face Space.
